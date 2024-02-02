@@ -1,0 +1,30 @@
+[
+    {
+        "Protocol": "Both",
+        "Port": "9875",
+        "Name": "Web Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "WebPort"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "9875",
+        "Name": "Main Game Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "MainGamePort"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "9875",
+        "Name": "Game Server",
+        "Description": "Port used for main game traffic",
+        "Ref": "GameServer"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "9875",
+        "Name": "Game Server",
+        "Description": "Port used for main game traffic",
+        "Ref": "GameServer"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "GameDownload",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://github.com/solero/wand/archive/refs/heads/master.zip",
+        "UpdateSourceTarget": "serverfiles",
+        "UnzipUpdateSource": true,
+        "OverwriteExistingFiles": true,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
