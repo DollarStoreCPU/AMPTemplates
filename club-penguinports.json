@@ -1,30 +1,37 @@
 [
     {
         "Protocol": "Both",
-        "Port": "9875",
+        "Port": "8112",
         "Name": "Web Port",
-        "Description": "Port used for main game traffic",
+        "Description": "Web traffic",
         "Ref": "WebPort"
     },
     {
         "Protocol": "Both",
+        "Port": "9875",
+        "Name": "World 1",
+        "Description": "Port used for World 1",
+        "Ref": "World1"
+    },
+    {
+        "Protocol": "Both",
         "Port": "9876",
-        "Name": "Main Game Port",
-        "Description": "Port used for main game traffic",
-        "Ref": "MainGamePort"
+        "Name": "World 2",
+        "Description": "Port used for World 2",
+        "Ref": "World2"
     },
     {
         "Protocol": "Both",
         "Port": "9877",
-        "Name": "Game Server",
-        "Description": "Port used for main game traffic",
-        "Ref": "GameServer"
+        "Name": "World 3",
+        "Description": "Port used for World 3",
+        "Ref": "World3"
     },
     {
         "Protocol": "Both",
         "Port": "9878",
-        "Name": "Game Server",
-        "Description": "Port used for main game traffic",
-        "Ref": "GameServer"
+        "Name": "World 4",
+        "Description": "Port used for World 4",
+        "Ref": "World4"
     }
 ]
