@@ -8,21 +8,21 @@
     },
     {
         "Protocol": "Both",
-        "Port": "9875",
+        "Port": "9876",
         "Name": "Main Game Port",
         "Description": "Port used for main game traffic",
         "Ref": "MainGamePort"
     },
     {
         "Protocol": "Both",
-        "Port": "9875",
+        "Port": "9877",
         "Name": "Game Server",
         "Description": "Port used for main game traffic",
         "Ref": "GameServer"
     },
     {
         "Protocol": "Both",
-        "Port": "9875",
+        "Port": "9878",
         "Name": "Game Server",
         "Description": "Port used for main game traffic",
         "Ref": "GameServer"
