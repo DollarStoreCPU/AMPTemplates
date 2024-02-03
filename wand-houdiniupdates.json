@@ -14,10 +14,10 @@
         "UpdateSourcePlatform": "All",
         "UpdateSource": "Executable",
         "UpdateSourceData": "/bin/bash",
-        "UpdateSourceArgs": "curl -L \"https://github.com/docker/compose/releases/download/1.25.5/docker-compose-$(uname -s)-$(uname -m)\" -o docker-compose &&  chmod +x docker-compose",
+        "UpdateSourceArgs": "curl -L \"https://github.com/docker/compose/releases/download/1.25.5/docker-compose-$(uname -s)-$(uname -m)\" -o wand-master/docker-compose &&  chmod +x wand-master/docker-compose",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "DeleteAfterExtract": true,
-        "OneShot": true
+        "OneShot": false
     }
 ]
